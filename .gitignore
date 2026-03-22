@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+.env
+botdata.db
+.venv
